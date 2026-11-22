@@ -1,0 +1,11 @@
+name = "Goonwolf-Expansion-Tweaks";
+picture = "GwExpansionTweaks\Data\GoonwolfLogo.edds";
+logo = "GwExpansionTweaks\Data\GoonwolfLogo.edds";
+logoSmall = "GwExpansionTweaks\Data\GoonwolfLogo.edds";
+logoOver = "GwExpansionTweaks\Data\GoonwolfLogo.edds";
+tooltip = "Goonwolf Expansion Tweaks";
+overview = "A collection of tweaks to DayZ Expansion adjusting Expansion's AI, Book, Quest and Notification systems.";
+action = "https://github.com/goonwolf666";
+author = "Goonwolf";
+authorID = "76561198061910032";
+version = "1.0";

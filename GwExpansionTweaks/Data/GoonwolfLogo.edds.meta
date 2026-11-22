@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{794E4315C7D01973}GwExpansionTweaks/Data/GoonwolfLogo.edds"
+ Author "lounge"
+ ChangeDate 1459893523
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "GoonwolfLogo.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}
