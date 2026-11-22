@@ -16,8 +16,7 @@ This extends DayZ Expansion mod with a bunch of tweaks for realism and randomisa
 * Server-controlled settings: The server owner configures all of these features in a JSON file, and players receive the server’s settings automatically.
 
 
-#Longer technical summary (extremely AI generated!)
-
+# Longer technical summary (extremely AI generated!)
 A DayZ Expansion companion mod. Radios and GPS become the way you hear the world, quests can come in over the airwaves, AI look and fight less uniformly, and a few Expansion systems get lighter or more immersive defaults. Everything is toggled from one server JSON.
 
 ---
