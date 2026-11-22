@@ -1,7 +1,9 @@
+<img src="Thumb3.jpg" width="400">
+
 # GWExpansionTweaks
 Source code for the 'Goonwolf DayZ Expansion Tweaks' mod for DayZ & DayZ Expansion here: https://steamcommunity.com/sharedfiles/filedetails/?id=3843945921
 
-<img src="Thumb1.jpg" width="400">
+<img src="Thumb2.jpg" width="400">
 
 -------
 **Github Copilot summary:**
@@ -17,6 +19,7 @@ This extends DayZ Expansion mod with a bunch of tweaks for realism and randomisa
 * House interiors: Expansion house interiors can be enabled or controlled by server settings.
 * Server-controlled settings: The server owner configures all of these features in a JSON file, and players receive the server’s settings automatically.
 
+<img src="Thumb1.jpg" width="400">
 
 # Longer technical summary (extremely AI generated!)
 A DayZ Expansion companion mod. Radios and GPS become the way you hear the world, quests can come in over the airwaves, AI look and fight less uniformly, and a few Expansion systems get lighter or more immersive defaults. Everything is toggled from one server JSON.
