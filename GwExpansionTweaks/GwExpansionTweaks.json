@@ -1,0 +1,71 @@
+{
+    "CONFIG_VERSION": "1",
+    "ExpansionTweaksSessionLogging": 0,
+    "RandomizeExpansionMissionTimes_Enabled": 1,
+    "RandomizeExpansionMissionTimes_MinMultiplier": 0.7,
+    "RandomizeExpansionMissionTimes_MaxMultiplier": 1.3,
+    "ExpansionBookItem_Enabled": 1,
+    "ExpansionBookItem_AllowedItemTypes": [
+        "ExpBookItem"
+    ],
+    "ExpansionBookItem_ItemNameText": "Field Manual",
+    "ExpansionBookItem_ItemDescriptionText": "Army Survival Field Manual. This is the official guide to surviving extreme and life-threatening situations.",
+    "ExpansionBookItem_KeyBindingText": "Read by pressing [<BOOK_KEY_BINDING>]",
+    "ExpansionBookItem_NotReadableText": "I'm not sure I can read this...",
+    "ExpansionBookItem_TooDamagedText": "This copy is too damaged to read...",
+    "ExpansionRadioNotifications_Enabled": 1,
+    "ExpansionRadioNotifications_AllowedItemTypes": [
+        "personalradio",
+        "zenwatchgps",
+        "nokiaz"
+    ],
+    "ExpansionRadioNotifications_SpecialKeywords": [
+        "killed",
+        "death",
+        "died"
+    ],
+    "ExpansionRadioNotifications_BypassKeywords": [
+        "community online tools",
+        "your skill category",
+        "open your inventory",
+        "abled the chat"
+    ],
+    "ExpansionRadioNotifications_RequiredForGlobalChat": 1,
+    "ExpansionLocationNotifications_Enabled": 1,
+    "ExpansionLocationNotifications_GpsRequiredItems": [
+        "GPSReceiver",
+        "ExpansionGPS",
+        "ZenWatchGPS"
+    ],
+    "ExpansionQuestsRadio_Enabled": 1,
+    "ExpansionQuestsRadio_AllowedRadioTypes": [
+        "BaseRadio",
+        "Land_Radio_PanelBig"
+    ],
+    "ExpansionQuestsRadio_Channels": [
+        {
+            "Frequency": 102.5,
+            "HourActiveStart": 0,
+            "HourActiveEnd": 0,
+            "QuestGiverID": 9001
+        }
+    ],
+    "ExpansionQuestsRadio_FlareRewards": 1,
+    "ExpansionQuestsRadio_RewardText": "Reward has dropped near your location!",
+    "ExpansionQuestsRadio_NoQuestsText": "No quests today... Check back later.",
+    "ExpansionHouseInteriors_Enabled": 1,
+    "ExpansionTweaksForAI_Enabled": 1,
+    "ExpansionTweaksForAI_MaleScaleMin": 0.93,
+    "ExpansionTweaksForAI_MaleScaleMax": 1.13,
+    "ExpansionTweaksForAI_FemaleScaleMin": 0.91,
+    "ExpansionTweaksForAI_FemaleScaleMax": 1.11,
+    "ExpansionTweaksForAI_AdditionalTargetEntities": [
+        "doggo_patrol",
+        "doggo_follow",
+        "animal_horse",
+        "banditai_"
+    ],
+    "ExpansionTweaksForAI_ChanceSpawnWithBeard": 0.69,
+    "ExpansionTweaksForAI_ChanceSpawnWithBloodyHands": 0.5,
+    "ExpansionTweaksForAI_ChanceForCowardice": 0.13
+}
