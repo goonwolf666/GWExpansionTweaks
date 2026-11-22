@@ -34,7 +34,7 @@ A DayZ Expansion companion mod. Radios and GPS become the way you hear the world
 | **AI** | Survivors can spawn at varied heights, with beards and/or bloody hands, sometimes flee when badly hurt, and may treat listed animals/creatures as threats. Quest NPCs and traders are not scaled or dressed up. |
 | **Airdrops / missions** | Expansion mission start gaps are jittered so events feel less metronomic. |
 
-A reference copy of the default config lives at the mod root as [`GwExpansionTweaks.json`](GwExpansionTweaks.json). The live file the server uses is:
+A reference copy of the default config lives at the mod root as [`GwExpansionTweaks.json`](https://github.com/goonwolf666/GWExpansionTweaks/blob/main/GwExpansionTweaks/GwExpansionTweaks.json). The live file the server uses is:
 
 ```text
 $profile:\Goonwolf\GwExpansionTweaks.json
