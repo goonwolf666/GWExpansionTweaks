@@ -31,7 +31,7 @@ A DayZ Expansion companion mod. Radios and GPS become the way you hear the world
 | **Location popups** | City/area name toasts only show if you have an approved GPS item. |
 | **Quest radio** | Power on or retune an allowed radio (handheld, base, or big panel) on a live frequency and in-game hour to open a quest board. Completing radio-giver quests can drop rewards nearby with a flare and red smoke. |
 | **Building interiors** | About one third of Expansion’s decorative interior clutter is randomly skipped. Furniture that collides stays. |
-| **AI** | Survivors can spawn at varied heights, with beards and/or bloody hands, sometimes flee when badly hurt, and may treat listed animals/creatures as threats. Quest NPCs and traders are not scaled or dressed up. |
+| **AI** | Survivors can spawn with varied heights, with beards and/or bloody hands, and different for males and females. When injured or knocked uncon, they sometimes run for the hills, and can treat additional animals/creatures as threats. Quest NPCs and traders are not scaled or dressed up. |
 | **Airdrops / missions** | Expansion mission start gaps are jittered so events feel less metronomic. |
 
 A reference copy of the default config lives at the mod root as [`GwExpansionTweaks.json`](https://github.com/goonwolf666/GWExpansionTweaks/blob/main/GwExpansionTweaks/GwExpansionTweaks.json). The live file the server uses is:
