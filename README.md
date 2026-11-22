@@ -1,6 +1,8 @@
 # GWExpansionTweaks
 Source code for the 'Goonwolf DayZ Expansion Tweaks' mod for DayZ & DayZ Expansion here: https://steamcommunity.com/sharedfiles/filedetails/?id=3843945921
 
+<img src="Thumb1.jpg" width="400">
+
 -------
 **Github Copilot summary:**
 This extends DayZ Expansion mod with a bunch of tweaks for realism and randomisation. This includes:
